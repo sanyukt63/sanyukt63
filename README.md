@@ -1,48 +1,37 @@
 <h1 align="center">Hey 👋 I'm Sanyukt Kumar Rai</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> • <b>AI & ML Enthusiast</b> • <b>Graphics Designer</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanyukt63&label=Profile%20Views&color=ff4d00&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <b>Full Stack Developer • AI & ML Enthusiast • Graphics Designer</b>
 </p>
 
 ---
 
 ### ✨ About Me
-I blend **design + development + AI** to build things that look good and work smart.
+I craft **visually stunning designs**, develop **intelligent applications**, and explore **AI & Machine Learning** to transform ideas into reality.
 
-- 🎨 Strong visual sense as a **Graphics Designer**
-- 💻 Building creative solutions as a **Full Stack Developer**
-- 🤖 Exploring **AI & Machine Learning**
-- 🚀 Always learning, always improving
+- 🎨 Strong **visual sense** as a Graphics Designer  
+- 💻 Building **creative and functional solutions** as a Full Stack Developer  
+- 🤖 Exploring **AI & Machine Learning innovations**  
+- 🚀 Committed to **learning, growing, and improving every day**
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://twitter.com/sanyukt63" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="45" style="color:#1DA1F2;" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="45" style="color:#0077B5;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/sanyukt.311" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="45" style="color:#E1306C;" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="45" style="color:#FF0000;" />
+  <a href="YOUR_YOUTUBE_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://hackerrank.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="45" style="color:#2EC866;" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" width="45" style="color:#0F9D58;" />
+  <a href="YOUR_HACKERRANK_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
 
@@ -50,19 +39,15 @@ I blend **design + development + AI** to build things that look good and work sm
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="50" style="color:#1572B6;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" width="50" style="color:#4285F4;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="50" style="color:#E34F26;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="50" style="color:#007396;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="50" style="color:#F7DF1E;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" width="50" style="color:#4479A1;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="50" style="color:#3776AB;" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,gcp,coreldraw,canva" alt="My Skills" />
 </p>
 
 ---
 
-⭐ *Design. Code. Innovate.*
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF" />
+</p>
+
+---
+
+<p align="center">⭐ <i>Design. Code. Innovate.</i></p>

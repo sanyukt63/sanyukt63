@@ -18,24 +18,28 @@ I craft **visually stunning designs**, develop **intelligent applications**, and
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://x.com/sanyukt12" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/X_logo.svg" alt="X logo" width="30" style="vertical-align: middle; margin-right: 8px;" />
-    <span style="color:#000000; font-weight:bold;">X</span>
+
+
+ <p style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" style="margin-right: 8px;" />
+   </a>
+  <a href="https://www.instagram.com/sanyukt.311" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" style="vertical-align: middle; margin-right: 8px;" />
-    <span style="color:#0077B5; font-weight:bold;">LinkedIn</span>
+
+  <a href="INSERT_YOUR_YOUTUBE_URL_HERE" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" />
   </a>
-  <a href="https://www.instagram.com/sanyukt.311" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" style="vertical-align: middle; margin-right: 8px;" />
-    <span style="color:#E4405F; font-weight:bold;">Instagram</span>
+
+  <a href="INSERT_YOUR_HACKERRANK_URL_HERE" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/HackerRank_logo.png" alt="HackerRank" width="30" />
   </a>
-  <a href="YOUR_HACKERRANK_URL_HERE" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/HackerRank_logo.png" alt="HackerRank" width="30" style="vertical-align: middle; margin-right: 8px;" />
-    <span style="color:#2EC866; font-weight:bold;">HackerRank</span>
+
+  <a href="https://x.com/sanyukt12" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/X_logo.svg" alt="X logo" width="30" />
   </a>
 </p>
-
 
 
 ---

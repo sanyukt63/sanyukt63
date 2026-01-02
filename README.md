@@ -32,9 +32,9 @@ I craft **visually stunning designs**, develop **intelligent applications**, and
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />
   </a>
 
-  <a href="https://www.x.com/sanyukt12" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon.svg" width="30" />
-  </a>
+<a href="https://www.x.com/sanyukt12" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/X_%28formerly_Twitter%29_logo_late_2025.svg/330px-X_%28formerly_Twitter%29_logo_late_2025.svg.png" width="30" />
+</a>
 </p>
 
 ---

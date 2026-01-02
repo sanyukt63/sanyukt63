@@ -17,20 +17,19 @@ I craft **visually stunning designs**, develop **intelligent applications**, and
 ---
 
 ### 🌐 Connect With Me
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<p align="center" style="margin: 0; display: inline-flex; gap: 20px;">
   <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"/>
   </a>
-
   <a href="https://www.instagram.com/sanyukt.311" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30"/>
   </a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<p align="center" style="margin: 0; display: inline-flex; gap: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
@@ -38,13 +37,11 @@ I craft **visually stunning designs**, develop **intelligent applications**, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
-</div>
+</p>
 
 ---
 
 ### ⭐ Design. Code. Innovate.
-<p align="center">
+<p align="center" style="margin: 0;">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
 </p>
-
----

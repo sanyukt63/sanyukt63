@@ -30,8 +30,8 @@ I blend **design + development + AI** to build things that look good and work sm
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CorelDRAW-Design-green?style=flat" />
-  <img src="https://img.shields.io/badge/Canva-Design-blue?style=flat" />
+  <img src="https://img.shields.io/badge/CorelDRAW-Design-green?style=flat&logo=coreldraw" />
+  <img src="https://img.shields.io/badge/Canva-Design-blue?style=flat&logo=canva" />
 </p>
 
 <p align="center">
@@ -53,6 +53,9 @@ I blend **design + development + AI** to build things that look good and work sm
   </a>
   <a href="https://www.instagram.com/sanyukt.311">
     <img src="https://img.shields.io/badge/Instagram-sanyukt.311-purple?style=flat&logo=instagram" />
+  </a>
+  <a href="https://twitter.com/sanyukt63">
+    <img src="https://img.shields.io/badge/Twitter-@sanyukt63-1DA1F2?style=flat&logo=twitter" />
   </a>
 </p>
 

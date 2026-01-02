@@ -24,39 +24,27 @@ I blend **design + development + AI** to build things that look good and work sm
 
 ---
 
-### 🧩 Tech & Tools
+### 🌐 Connect With Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,figma" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CorelDRAW-Design-green?style=flat&logo=coreldraw" />
-  <img src="https://img.shields.io/badge/Canva-Design-blue?style=flat&logo=canva" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+  <a href="https://twitter.com/sanyukt63" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" /></a>
+  <a href="https://www.instagram.com/sanyukt.311" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" /></a>
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="40" /></a>
+  <a href="https://hackerrank.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" alt="GFG" width="40" /></a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🛠️ Languages & Tools
 <p align="center">
-  <a href="mailto:sanyuktkumarrai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sanyuktkumarrai%40gmail.com-red?style=flat&logo=gmail" />
-  </a>
-  <a href="https://github.com/sanyukt63">
-    <img src="https://img.shields.io/badge/GitHub-sanyukt63-black?style=flat&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sanyuktkummarrai">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanyukt%20Kumar%20Rai-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/sanyukt.311">
-    <img src="https://img.shields.io/badge/Instagram-sanyukt.311-purple?style=flat&logo=instagram" />
-  </a>
-  <a href="https://twitter.com/sanyukt63">
-    <img src="https://img.shields.io/badge/Twitter-@sanyukt63-1DA1F2?style=flat&logo=twitter" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" alt="Google Cloud" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" alt="MySQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" />
 </p>
 
 <p align="center">

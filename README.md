@@ -23,17 +23,17 @@ I craft **visually stunning designs**, develop **intelligent applications**, and
 ---
 
 ### 🌐 Connect With Me
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" />
   </a>
 
-  <a href="https://www.instagram.com/sanyukt.311" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" />
+  <a href="https://www.instagram.com/sanyukt.311" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />
   </a>
 
-  <a href="https://www.x.com/sanyukt12" target="_blank" rel="noopener noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a5/x_icon.pn](https://en.wikipedia.org/wiki/File:X_(formerly_Twitter)_logo_late_2025.svg)g](https://en.wikipedia.org/wiki/File:X_(formerly_Twitter)_logo_late_2025.svg)" alt="Instagram" width="30" />
+  <a href="https://www.x.com/sanyukt12" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon.svg" width="30" />
   </a>
 </p>
 

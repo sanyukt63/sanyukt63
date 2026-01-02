@@ -17,44 +17,34 @@ I craft **visually stunning designs**, develop **intelligent applications**, and
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" />
+  </a>
 
-
- <p style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" style="margin-right: 8px;" />
-   </a>
   <a href="https://www.instagram.com/sanyukt.311" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" />
   </a>
-
-  <a href="INSERT_YOUR_YOUTUBE_URL_HERE" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" />
-  </a>
-
-  <a href="INSERT_YOUR_HACKERRANK_URL_HERE" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/HackerRank_logo.png" alt="HackerRank" width="30" />
-  </a>
-
-  <a href="https://x.com/sanyukt12" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/X_logo.svg" alt="X logo" width="30" />
-  </a>
 </p>
-
 
 ---
 
 ### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,gcp,coreldraw,canva" alt="My Skills" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+</div>
 
 ---
 
+### ⭐ Design. Code. Innovate.
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
 </p>
 
 ---
-
-<p align="center">⭐ <i>Design. Code. Innovate.</i></p>

@@ -100,20 +100,26 @@ philosophy: "Design with purpose. Code with precision. Innovate with curiosity."
 </p>
 
 <br/>
-
 ## 🌐 Connect With Me
-
+<h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Sanyukt777/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/sanyukt12" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;
   <a href="https://www.instagram.com/sanyukt.311" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.x.com/sanyukt12" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+<br/>
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">

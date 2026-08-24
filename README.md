@@ -101,27 +101,29 @@ STATUS  : Open to Work  ✅
 
 ### &nbsp;🤖 AI / Machine Learning
 
-<!-- Core Frameworks -->
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,jupyter,anaconda&theme=dark" alt="ML Frameworks"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-<!-- Data & Numerical -->
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
 </p>
 
-<!-- NLP & Advanced ML -->
 <p>
-  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
   <img src="https://img.shields.io/badge/TF--IDF-8B5CF6?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="TF-IDF"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
 </p>
 
 ### &nbsp;🎨 Design Tools
@@ -145,27 +147,27 @@ STATUS  : Open to Work  ✅
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00C132?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://x.com/sanyukt12" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-00C132?style=plastic&logo=x&logoColor=white" alt="X / Twitter"/>
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="X / Twitter"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/sanyukt.311" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00C132?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/Sanyukt777/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-00C132?style=plastic&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40" alt="LeetCode"/>
   </a>
   &nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C132?style=plastic&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-00C132?style=for-the-badge&logo=firefox-browser&logoColor=white" height="40" alt="Portfolio"/>
   </a>
   &nbsp;
   <a href="mailto:sanyukt63@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-00C132?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
   </a>
 </p>
 

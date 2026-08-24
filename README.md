@@ -32,10 +32,6 @@
 <!-- ── ABOUT ME ──────────────────────────────────────────────────── -->
 ## 🧑‍💻 &nbsp;About Me
 
-<p align="center">
-  <img src="rafale.svg" width="100%" alt="IAF Rafale Fighter Jet // Supersonic Flight"/>
-</p>
-
 ```yaml
 NAME    : Sanyukt Kumar Rai
 ROLE    : Full Stack Developer | AI/ML | Graphics Designer
@@ -62,16 +58,6 @@ STATUS  : Open to Work  ✅
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sanyukt63&theme=dark&background=050905&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=EAFFF0&sideTitle=00C132&dates=6B8F6B&border=00FF4122&stroke=00FF4111" width="96%" alt="GitHub Streak Stats"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyukt63&show_icons=true&theme=dark&icon_color=00FF41&title_color=00FF41&text_color=EAFFF0&bg_color=050905&border_color=00FF4122&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyukt63&layout=compact&theme=dark&title_color=00FF41&text_color=EAFFF0&bg_color=050905&border_color=00FF4122&langs_count=8" width="45%" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanyukt63&theme=matrix&column=7&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanyukt63&theme=react-dark&bg_color=050905&color=00FF41&line=00FF41&point=00C132&area=true&hide_border=true" width="96%" alt="Activity Graph"/>
 </p>
@@ -79,7 +65,6 @@ STATUS  : Open to Work  ✅
 <br/>
 
 ---
-
 <!-- ── TECH STACK ─────────────────────────────────────────────────── -->
 ## 🛠️ &nbsp;Tech Stack & Tools
 
@@ -149,27 +134,27 @@ STATUS  : Open to Work  ✅
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/sanyukt12" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="45" height="45" alt="X / Twitter"/>
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/sanyukt.311" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://leetcode.com/u/Sanyukt777/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="#" target="_blank">
-    <img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139" width="45" height="45" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-00C132?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:sanyukt63@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 

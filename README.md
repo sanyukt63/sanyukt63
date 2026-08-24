@@ -84,55 +84,56 @@ STATUS  : Open to Work  ✅
 ### &nbsp;⌨️ Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C-00C132?style=plastic&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-00C132?style=plastic&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-00C132?style=plastic&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-00C132?style=plastic&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-00C132?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-00C132?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-00C132?style=plastic&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,postgresql&theme=dark" alt="Languages"/>
 </p>
 
 ### &nbsp;🧩 Frameworks & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/Bootstrap-00C132?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Django-00C132?style=plastic&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/NumPy-00C132?style=plastic&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-00C132?style=plastic&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,django,numpy&theme=dark" alt="Frameworks & Libraries"/>
 </p>
 
 ### &nbsp;🗄️ Databases & Cloud
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00C132?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-00C132?style=plastic&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://skillicons.dev/icons?i=mysql,gcp&theme=dark" alt="Databases & Cloud"/>
 </p>
 
 ### &nbsp;🤖 AI / Machine Learning
 
+<!-- Core Frameworks -->
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-00C132?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-00C132?style=plastic&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,jupyter,anaconda&theme=dark" alt="ML Frameworks"/>
+</p>
+
+<!-- Data & Numerical -->
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+</p>
+
+<!-- NLP & Advanced ML -->
+<p>
+  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/TF--IDF-8B5CF6?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="TF-IDF"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
 ### &nbsp;🎨 Design Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-00C132?style=plastic&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-00C132?style=plastic&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-00C132?style=plastic&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=figma,canva,ps&theme=dark" alt="Design Tools"/>
 </p>
 
 ### &nbsp;⚙️ Dev Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-00C132?style=plastic&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-00C132?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-00C132?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-00C132?style=plastic&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-00C132?style=plastic&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Linux-00C132?style=plastic&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux&theme=dark" alt="Dev Tools & Platforms"/>
 </p>
 
 <br/>

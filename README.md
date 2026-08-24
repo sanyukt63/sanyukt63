@@ -32,7 +32,9 @@
 <!-- ── ABOUT ME ──────────────────────────────────────────────────── -->
 ## 🧑‍💻 &nbsp;About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="210" alt="Coding GIF"/>
+<p align="center">
+  <img src="rafale.svg" width="100%" alt="IAF Rafale Fighter Jet // Supersonic Flight"/>
+</p>
 
 ```yaml
 NAME    : Sanyukt Kumar Rai
@@ -147,27 +149,27 @@ STATUS  : Open to Work  ✅
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanyuktkummarrai" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://x.com/sanyukt12" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" height="40" alt="X / Twitter"/>
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="45" height="45" alt="X / Twitter"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/sanyukt.311" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Sanyukt777/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-00C132?style=for-the-badge&logo=firefox-browser&logoColor=white" height="40" alt="Portfolio"/>
+    <img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139" width="45" height="45" alt="Portfolio"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:sanyukt63@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail"/>
   </a>
 </p>
 

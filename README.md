@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer • AI/ML Builder • CSE Student</strong>
+  <strong>Full-Stack Developer • AI/ML Explorer • Builder</strong>
 </p>
 
 <p align="center">
@@ -14,50 +14,36 @@
 
 ## 👋 About Me
 
-I'm **Sanyukt Kumar Rai**, a B.Tech CSE student focused on building practical software and learning through real projects.
+I'm Sanyukt Kumar Rai, a developer who likes turning ideas into practical products. I enjoy building full-stack applications, experimenting with AI/ML, and designing interfaces that are easy to use.
 
 - 💻 Building full-stack web applications
-- 🤖 Exploring AI/ML, NLP and AI-assisted products
-- 🧩 Practicing DSA and problem solving with Java
-- 🎨 Interested in UI, product design and developer experience
-- 🌱 Learning through projects, open source and consistent practice
-- 🚀 Currently working on projects that combine software engineering with AI
+- 🤖 Exploring AI/ML through practical projects
+- 🎨 Interested in UI, visual design, and developer experience
+- 🌱 Improving DSA, system thinking, and open-source practices
+- 🚀 Currently focused on shipping small, useful projects instead of just tutorials
 
-## 🚀 Featured Projects
+## ⭐ Projects I'm Building
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| **[NIRNAY AI](https://github.com/sanyukt63/Nirnay-AI)** | AI-assisted civic grievance management and participatory governance prototype | Django, FastAPI, NLP/ML, JavaScript |
-| **[HireSense AI](https://github.com/sanyukt63/HireSense-AI)** | AI-assisted resume screening and candidate shortlisting platform | Django, PostgreSQL, Python |
 | **[CrisisNav](https://github.com/sanyukt63/CrisisNav)** | Offline-first emergency guidance and crisis protocols | JavaScript, Node.js, PWA |
 | **[CodeCraft](https://github.com/sanyukt63/CodeCraft)** | Interactive programming-learning platform | HTML, CSS, JavaScript |
-| **[Quick-Cure](https://github.com/sanyukt63/Quick-Cure)** | Smart appointment-booking web application | Web technologies |
+| **[HireSense AI](https://github.com/sanyukt63/HireSense-AI)** | Resume screening and recruitment platform under active development | Django, PostgreSQL, AI/ML |
+| **[Quick-Cure](https://github.com/sanyukt63/Quick-Cure)** | Smart appointment-booking application | Web application |
 
-> I prefer building useful, documented projects over collecting tutorial repositories.
+> 🔨 I care about useful software, clear documentation, and projects that other developers can actually run and build on.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech
 
 **Languages:** C • Java • Python • JavaScript • HTML • CSS • SQL
 
-**Frontend:** React • HTML • CSS • Tailwind CSS
+**Web & Backend:** Django • Node.js • Express • REST APIs
 
-**Backend:** Django • Django REST Framework • FastAPI • Node.js • Express • REST APIs
+**Data & AI:** PostgreSQL • MySQL • NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • OpenCV
 
-**AI / ML:** PyTorch • Hugging Face Transformers • Sentence Transformers • Scikit-learn • spaCy • NumPy • Pandas
+**Tools:** Git • GitHub • Docker • VS Code • Postman • Linux
 
-**Databases:** MySQL • PostgreSQL
-
-**Tools:** Git • GitHub • Docker • Linux • VS Code • Postman
-
-## 📚 Currently Improving
-
-- Data Structures & Algorithms with Java
-- Backend engineering and REST API design
-- AI/ML integration in production-style applications
-- Retrieval, embeddings and grounded AI systems
-- Open-source development and collaborative workflows
-
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyukt63&theme=dark" width="90%" alt="GitHub contribution streak"/>
@@ -71,5 +57,5 @@ I'm **Sanyukt Kumar Rai**, a B.Tech CSE student focused on building practical so
 - 𝕏 [X](https://x.com/sanyukt12)
 
 <p align="center">
-  <sub>Build useful things. Share the work. Keep improving.</sub>
+  <sub>Build something useful. Share it. Improve it.</sub>
 </p>
